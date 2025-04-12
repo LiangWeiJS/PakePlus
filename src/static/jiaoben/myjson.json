@@ -1,0 +1,766 @@
+[
+    {
+        "title": "黑风岭",
+        "type": "fuben"
+    },
+    {
+        "title": "落雪山",
+        "type": "fuben"
+    },
+    {
+        "title": "云树林",
+        "type": "fuben"
+    },
+    {
+        "title": "太尉宝库",
+        "type": "fuben"
+    },
+    {
+        "title": "食人谷",
+        "type": "fuben"
+    },
+    {
+        "title": "冰魄洞",
+        "type": "fuben"
+    },
+    {
+        "title": "沧州阵法",
+        "type": "fuben"
+    },
+    {
+        "title": "江都王府",
+        "type": "fuben"
+    },
+    {
+        "title": "黄泥岗副本",
+        "type": "fuben"
+    },
+    {
+        "title": "荡寇",
+        "type": "fuben"
+    },
+    {
+        "title": "六艺塔",
+        "type": "fuben"
+    },
+    {
+        "title": "火岩洞",
+        "type": "fuben"
+    },
+    {
+        "title": "白光",
+        "type": "fuben"
+    },
+    {
+        "title": "地下古城",
+        "type": "fuben"
+    },
+    {
+        "title": "入梦",
+        "type": "fuben"
+    },
+    {
+        "title": "五星七曜八卦阵",
+        "type": "fuben"
+    },
+    {
+        "title": "进入五行副本",
+        "type": "fuben"
+    },
+    {
+        "title": "祝家庄",
+        "type": "fuben"
+    },
+    {
+        "title": "通天塔1-16",
+        "type": "fuben"
+    },
+    {
+        "title": "镜月水花",
+        "type": "fuben"
+    },
+    {
+        "title": "水花镜月",
+        "type": "fuben"
+    },
+    {
+        "title": "镜月水花（不打王者）",
+        "type": "fuben"
+    },
+    {
+        "title": "阮家水阵",
+        "type": "fuben"
+    },
+    {
+        "title": "三庙三沟天机楼",
+        "type": "fuben"
+    },
+    {
+        "title": "三庙三沟天机楼天机楼不打boss",
+        "type": "fuben"
+    },
+    {
+        "title": "扫荡野猪林",
+        "type": "fuben"
+    },
+    {
+        "title": "一探阮家宝库",
+        "type": "fuben"
+    },
+    {
+        "title": "一探至尊宝库",
+        "type": "fuben"
+    },
+    {
+        "title": "勇闯贤才馆",
+        "type": "fuben"
+    },
+    {
+        "title": "小偷",
+        "type": "fuben"
+    },
+    {
+        "title": "守卫深海禁地01",
+        "type": "fuben"
+    },
+    {
+        "title": "天兵阵",
+        "type": "fuben"
+    },
+    {
+        "title": "地兵阵",
+        "type": "fuben"
+    },
+    {
+        "title": "人兵阵",
+        "type": "fuben"
+    },
+    {
+        "title": "和兵阵",
+        "type": "fuben"
+    },
+    {
+        "title": "天兵阵（小兵）",
+        "type": "fuben"
+    },
+    {
+        "title": "地兵阵（小兵）",
+        "type": "fuben"
+    },
+    {
+        "title": "人兵阵（小兵）",
+        "type": "fuben"
+    },
+    {
+        "title": "和兵阵（小兵）",
+        "type": "fuben"
+    },
+    {
+        "title": "守卫深海禁地02",
+        "type": "fuben"
+    },
+    {
+        "title": "守卫深海禁地03",
+        "type": "fuben"
+    },
+    {
+        "title": "怒闯西门阵",
+        "type": "fuben"
+    },
+    {
+        "title": "五虎榜文",
+        "type": "fuben"
+    },
+    {
+        "title": "---------------修改版为-禁军专用--------------",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线1-庄园修改版",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线2-史家-禁修改版",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线3-少华修改版",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线4-黑风修改版",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线5-桃村修改版",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线6-桃山修改版",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线7-食谷修改版",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线8-东宝库前修改版",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线9-太宝库修改版",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线10-东京库后修改版",
+        "type": "zhuxian"
+    },
+    {
+        "title": "------------华丽的分割线(17)-------------",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线-我的庄园",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线2-史家庄-禁",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线3-少华山",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线4-黑风岭",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线5-桃花村",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线6-桃花山",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线7-食人谷",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线8-东京宝库前",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线9-太尉宝库",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线10-东京宝库后",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线11-鱼和白菜一直刷",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线12-柴家庄",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线-升级到80（流花鱼）",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线13-沧州广场",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线14-黄泥冈",
+        "type": "zhuxian"
+    },
+    {
+        "title": "主线15-景阳岗",
+        "type": "zhuxian"
+    },
+    {
+        "title": "鱼和白菜一直刷",
+        "type": "richang"
+    },
+    {
+        "title": "周武师控制",
+        "type": "richang"
+    },
+    {
+        "title": "一键军队",
+        "type": "richang"
+    },
+    {
+        "title": "自动提潜",
+        "type": "richang"
+    },
+    {
+        "title": "一键合万虫羹",
+        "type": "richang"
+    },
+    {
+        "title": "吃万虫金刚",
+        "type": "richang"
+    },
+    {
+        "title": "造2套神行装",
+        "type": "richang"
+    },
+    {
+        "title": "庄院装备卡级",
+        "type": "richang"
+    },
+    {
+        "title": "庄院资源卡级",
+        "type": "richang"
+    },
+    {
+        "title": "兑换帮派卡",
+        "type": "richang"
+    },
+    {
+        "title": "存帮派仓库",
+        "type": "richang"
+    },
+    {
+        "title": "清理背包（招兵）",
+        "type": "richang"
+    },
+    {
+        "title": "清理背包（不招兵）",
+        "type": "richang"
+    },
+    {
+        "title": "买药（非礼无用）",
+        "type": "richang"
+    },
+    {
+        "title": "屠龙",
+        "type": "richang"
+    },
+    {
+        "title": "领白金钻，万虫，古图，梦晶石",
+        "type": "richang"
+    },
+    {
+        "title": "抢仙",
+        "type": "richang"
+    },
+    {
+        "title": "抢仙（守）",
+        "type": "richang"    
+    },
+    {
+        "title": "买药",
+        "type": "richang"
+    },
+    {
+        "title": "答题",
+        "type": "richang"
+    },
+    {
+        "title": "卧房休息增加攻击力",
+        "type": "richang"
+    },
+    {
+        "title": "流花鱼",
+        "type": "richang"
+    },
+    {
+        "title": "解验证",
+        "type": "richang"
+    },
+    {
+        "title": "刷密室1-9",
+        "type": "richang"
+    },
+    {
+        "title": "密室一层",
+        "type": "richang"
+    },
+    {
+        "title": "密室二层",
+        "type": "richang"
+    },
+    {
+        "title": "切换账号",
+        "type": "richang"
+    },
+    {
+        "title": "切换书签",
+        "type": "richang"
+    },
+    {
+        "title": "挖石头",
+        "type": "richang"
+    },
+	{
+	    "title": "退出登录",
+	    "type": "richang"
+	},
+    {
+        "title": "黄泥岗书怪",
+        "type": "shuguai"
+    },
+    {
+        "title": "柴家庄书怪",
+        "type": "shuguai"
+    },
+    {
+        "title": "景阳冈书怪",
+        "type": "shuguai"
+    },
+    {
+        "title": "景阳左追风",
+        "type": "shuguai"
+    },
+    {
+        "title": "景阳右摘星",
+        "type": "shuguai"
+    },
+    {
+        "title": "黄泥左驾风",
+        "type": "shuguai"
+    },
+    {
+        "title": "黄泥右观景",
+        "type": "shuguai"
+    },
+    {
+        "title": "柴家下飞贼",
+        "type": "shuguai"
+    },
+    {
+        "title": "柴家上飞贼",
+        "type": "shuguai"
+    },
+    {
+        "title": "天字老大",
+        "type": "shuguai"
+    },
+    {
+        "title": "地字老大",
+        "type": "shuguai"
+    },
+    {
+        "title": "人字老大",
+        "type": "shuguai"
+    },
+    {
+        "title": "和字老大",
+        "type": "shuguai"
+    },
+    {
+        "title": "鱼鹰",
+        "type": "shuguai"
+    },
+    {
+        "title": "巨兽",
+        "type": "shuguai"
+    },
+    {
+        "title": "打开自动拾取",
+        "type": "richang"
+    },
+    {
+        "title": "关闭自动拾取",
+        "type": "richang"
+    },
+    {
+        "title": "合成金二",
+        "type": "hecheng"
+    },
+    {
+        "title": "合成金一",
+        "type": "hecheng"
+    },
+    {
+        "title": "合金奇",
+        "type": "hecheng"
+    },
+    {
+        "title": "每日修神",
+        "type": "richang"
+    },
+    {
+        "title": "合血印金刚",
+        "type": "hecheng"
+    },
+    {
+        "title": "合狂奇",
+        "type": "hecheng"
+    },
+    {
+        "title": "合狂二",
+        "type": "hecheng"
+    },
+    {
+        "title": "合千虫",
+        "type": "hecheng"
+    },
+    {
+        "title": "合强体",
+        "type": "hecheng"
+    },
+    {
+        "title": "合万虫",
+        "type": "hecheng"
+    },
+    {
+        "title": "合高万",
+        "type": "hecheng"
+    },
+    {
+        "title": "清理背包",
+        "type": "richang"
+    },
+    {
+        "title": "修理近身装备",
+        "type": "richang"
+    },
+    {
+        "title": "赠送物品",
+        "type": "richang"
+    },
+    {
+        "title": "牵汗血宝马",
+        "type": "richang"
+    },
+    {
+        "title": "快活林第一个进入(打全怪)",
+        "type": "richang"
+    },
+    {
+        "title": "快活林第二个进入",
+        "type": "richang"
+    },
+    {
+        "title": "九层小怪(龙鳞装)",
+        "type": "richang"
+    },
+    {
+        "title": "九层小怪(不打强体)",
+        "type": "richang"
+    },
+    {
+        "title": "九层小怪(不打密室)",
+        "type": "richang"
+    },
+    {
+        "title": "八层小怪(不打密室)",
+        "type": "richang"
+    },
+	{
+	    "title": "重置脚本次数",
+	    "type": "richang"
+	},
+    {
+        "title": "测试抢仙1",
+        "type": "richang"
+    },
+    {
+        "title": "大白菜虫液",
+        "type": "cailiao"
+    },
+    {
+        "title": "密室1到5和红角",
+        "type": "cailiao"
+    },
+    {
+        "title": "田鼠钉子户",
+        "type": "cailiao"
+    },
+    {
+        "title": "虎皮",
+        "type": "cailiao"
+    },
+    {
+        "title": "黄泥强盗",
+        "type": "cailiao"
+    },
+    {
+        "title": "蟒蛇皮蛇胆",
+        "type": "cailiao"
+    },
+    {
+        "title": "百级刷蟒蛇不打大蟒蛇",
+        "type": "cailiao"
+	},
+    {
+        "title": "龟壳龙皮蜂王浆",
+        "type": "cailiao"
+    },
+    {
+        "title": "蟒蛇皮胆电光鱼虾",
+        "type": "cailiao"
+    },
+    {
+        "title": "牛皮",
+        "type": "cailiao"
+    },
+    {
+        "title": "蒙汗药",
+        "type": "cailiao"
+    },
+    {
+        "title": "大小柳",
+        "type": "cailiao"
+    },
+    {
+        "title": "流花河鱼",
+        "type": "cailiao"
+    },
+    {
+        "title": "蛇胆",
+        "type": "cailiao"
+    },
+    {
+        "title": "青蛇皮",
+        "type": "cailiao"
+    },
+    {
+        "title": "百级刷蟒蛇大蟒蛇",
+        "type": "cailiao"
+    },
+    {
+        "title": "冰洞门票和蒙汗药",
+        "type": "cailiao"
+    },
+    {
+        "title": "强体怪",
+        "type": "cailiao"
+    },
+    {
+        "title": "强体怪万剑",
+        "type": "cailiao"
+    },
+    {
+        "title": "强体怪古墓",
+        "type": "cailiao"
+    },
+    {
+        "title": "强体怪狂盗",
+        "type": "cailiao"
+    },
+    {
+        "title": "强体怪百兽",
+        "type": "cailiao"
+    },
+    {
+        "title": "血印分身",
+        "type": "cailiao"
+    },
+    {
+        "title": "百级白光",
+        "type": "fuben"
+    },
+    {
+        "title": "生肖牛",
+        "type": "fuben"
+    },
+    {
+        "title": "生肖兔",
+        "type": "fuben"
+    },
+    {
+        "title": "地鼠副本",
+        "type": "fuben"
+    },
+    {
+        "title": "升级研究",
+        "type": "richang"
+    },
+    {
+        "title": "升级人物，周，禁军100级",
+        "type": "richang"
+    },
+    {
+        "title": "每日兑换万虫高万及领取回馈点",
+        "type": "richang"
+    },
+    {
+        "title": "雷啸天",
+        "type": "boss"
+    },
+    {
+        "title": "龙破天",
+        "type": "boss"
+    },
+    {
+        "title": "灭霸",
+        "type": "boss"
+    },
+    {
+        "title": "---------------华丽的分割线03-----------------",
+        "type": "boss"
+    },
+    {
+        "title": "庄院9级现身升级房屋",
+        "type": "boss"
+    },
+    {
+        "title": "买药万年400",
+        "type": "boss"
+    },
+    {
+        "title": "副本队长",
+        "type": "boss"
+    },
+    {
+        "title": "副本队员",
+        "type": "boss"
+    },
+    {
+        "title": "副本前准备",
+        "type": "boss"
+    },
+    {
+        "title": "副本至尊宝库",
+        "type": "boss"
+    },
+    {
+        "title": "副本守卫深海禁地01",
+        "type": "boss"
+    },
+    {
+        "title": "副本守卫深海禁地02",
+        "type": "boss"
+    },
+    {
+        "title": "副本守卫深海禁地03",
+        "type": "boss"
+    },
+    {
+        "title": "副本水花镜月",
+        "type": "boss"
+    },
+    {
+        "title": "副本镜月水花（不打王者）",
+        "type": "boss"
+    },
+    {
+        "title": "副本进入五行",
+        "type": "boss"
+    },
+    {
+        "title": "副本五星七曜八卦阵",
+        "type": "boss"
+    },
+    {
+        "title": "刷新",
+        "type": "boss"
+    },
+{
+        "title": "绿竹刷银助理",
+        "type": "boss"
+    },
+{
+        "title": "刷银主力",
+        "type": "boss"
+    }
+]
